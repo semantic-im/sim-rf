@@ -1,0 +1,3 @@
+The structure is the following:
+1). arff - contains a sample arff file with measurements for about 30 queries
+2) lib
